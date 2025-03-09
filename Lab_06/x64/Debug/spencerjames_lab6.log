@@ -1,0 +1,11 @@
+﻿  spencerjames_lab6.cpp
+C:\Users\James E. Spencer\Documents\FULLSAIL\SDV3111-O\Labs SPR\spencerjames_lab6\spencerjames_lab6\spencerjames_lab6.cpp(26,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\James E. Spencer\Documents\FULLSAIL\SDV3111-O\Labs SPR\spencerjames_lab6\spencerjames_lab6\spencerjames_lab6.cpp(28,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\James E. Spencer\Documents\FULLSAIL\SDV3111-O\Labs SPR\spencerjames_lab6\spencerjames_lab6\spencerjames_lab6.cpp(30,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\James E. Spencer\Documents\FULLSAIL\SDV3111-O\Labs SPR\spencerjames_lab6\spencerjames_lab6\spencerjames_lab6.cpp(64,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\James E. Spencer\Documents\FULLSAIL\SDV3111-O\Labs SPR\spencerjames_lab6\spencerjames_lab6\spencerjames_lab6.cpp(70,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\James E. Spencer\Documents\FULLSAIL\SDV3111-O\Labs SPR\spencerjames_lab6\spencerjames_lab6\spencerjames_lab6.cpp(85,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\James E. Spencer\Documents\FULLSAIL\SDV3111-O\Labs SPR\spencerjames_lab6\spencerjames_lab6\spencerjames_lab6.cpp(91,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\James E. Spencer\Documents\FULLSAIL\SDV3111-O\Labs SPR\spencerjames_lab6\spencerjames_lab6\spencerjames_lab6.cpp(106,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\James E. Spencer\Documents\FULLSAIL\SDV3111-O\Labs SPR\spencerjames_lab6\spencerjames_lab6\spencerjames_lab6.cpp(112,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  spencerjames_lab6.vcxproj -> C:\Users\James E. Spencer\Documents\FULLSAIL\SDV3111-O\Labs SPR\spencerjames_lab6\spencerjames_lab6\x64\Debug\spencerjames_lab6.exe
